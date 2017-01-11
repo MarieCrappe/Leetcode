@@ -1,8 +1,5 @@
-package Easy;
-
 public class MoveZeroes {
-
-    
+	
 	public static void main(String[] args) {
 		int[] nums = {1,2,0,3};
 		moveZeroes(nums);
